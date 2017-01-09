@@ -1,0 +1,1 @@
+To Use simple run this code in turbo c
